@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "author": "Sanjeev Kapoor",
+    "difficulty": "Intermediate",
+    "prepTime": 20,
+    "cookTime": 15,
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 eggs",
+      "50g parmesan cheese",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook pasta in salted water.",
+      "Fry pancetta until crispy.",
+      "Mix eggs and cheese in a bowl.",
+      "Combine hot pasta with egg mixture and pancetta.",
+      "Serve immediately."
+    ],
+    "imageUrl": "https://example.com/spaghetti.jpg"
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "author": "Madhur Jaffrey",
+    "difficulty": "Intermediate",
+    "prepTime": 30,
+    "cookTime": 30,
+    "ingredients": [
+      "500g chicken",
+      "1 cup yogurt",
+      "2 onions",
+      "Tomato puree",
+      "Cream",
+      "Garam masala"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and spices.",
+      "Cook onions and tomato puree.",
+      "Add chicken and cook thoroughly.",
+      "Add cream and simmer.",
+      "Serve hot."
+    ],
+    "imageUrl": "https://example.com/chicken-tikka.jpg"
+  },
+  {
+    "title": "Classic Chocolate Chip Cookies",
+    "author": "Baker Betty",
+    "difficulty": "Easy",
+    "prepTime": 15,
+    "cookTime": 10,
+    "ingredients": [
+      "Butter",
+      "Sugar",
+      "Eggs",
+      "Flour",
+      "Baking soda",
+      "Chocolate chips"
+    ],
+    "instructions": [
+      "Cream butter and sugar.",
+      "Add eggs and vanilla.",
+      "Mix dry ingredients and combine.",
+      "Stir in chocolate chips.",
+      "Bake until golden."
+    ],
+    "imageUrl": "https://example.com/cookies.jpg"
+  },
+  {
+    "title": "Vegetable Biryani",
+    "author": "Vikas Khanna",
+    "difficulty": "Difficult",
+    "prepTime": 45,
+    "cookTime": 40,
+    "ingredients": [
+      "Basmati rice",
+      "Mixed vegetables",
+      "Yogurt",
+      "Spices",
+      "Saffron",
+      "Fried onions"
+    ],
+    "instructions": [
+      "Cook rice partially.",
+      "Layer vegetables and rice.",
+      "Add saffron and fried onions.",
+      "Cover and cook on low heat.",
+      "Serve with raita."
+    ],
+    "imageUrl": "https://example.com/biryani.jpg"
+  },
+  {
+    "title": "Caesar Salad",
+    "author": "Gordon Ramsay",
+    "difficulty": "Easy",
+    "prepTime": 15,
+    "cookTime": 0,
+    "ingredients": [
+      "Romaine lettuce",
+      "Croutons",
+      "Parmesan cheese",
+      "Caesar dressing",
+      "Lemon juice",
+      "Anchovies"
+    ],
+    "instructions": [
+      "Wash and chop lettuce.",
+      "Add croutons and cheese.",
+      "Drizzle with dressing.",
+      "Top with anchovies.",
+      "Serve chilled."
+    ],
+    "imageUrl": "https://example.com/caesar.jpg"
+  },
+  {
+    "title": "Butter Chicken",
+    "author": "Ranveer Brar",
+    "difficulty": "Intermediate",
+    "prepTime": 35,
+    "cookTime": 25,
+    "ingredients": [
+      "Chicken",
+      "Tomato puree",
+      "Cream",
+      "Butter",
+      "Spices",
+      "Ginger garlic paste"
+    ],
+    "instructions": [
+      "Cook chicken in spices.",
+      "Prepare buttery tomato sauce.",
+      "Combine chicken with sauce.",
+      "Simmer with cream.",
+      "Serve with naan."
+    ],
+    "imageUrl": "https://example.com/butterchicken.jpg"
+  },
+  {
+    "title": "Pancakes",
+    "author": "Nigella Lawson",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 10,
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Baking powder",
+      "Sugar",
+      "Butter"
+    ],
+    "instructions": [
+      "Mix all ingredients.",
+      "Pour batter on griddle.",
+      "Flip when bubbles form.",
+      "Cook until golden.",
+      "Serve with syrup."
+    ],
+    "imageUrl": "https://example.com/pancakes.jpg"
+  },
+  {
+    "title": "Lasagna",
+    "author": "Giada De Laurentiis",
+    "difficulty": "Difficult",
+    "prepTime": 60,
+    "cookTime": 45,
+    "ingredients": [
+      "Lasagna noodles",
+      "Ricotta cheese",
+      "Mozzarella",
+      "Tomato sauce",
+      "Ground beef",
+      "Basil"
+    ],
+    "instructions": [
+      "Cook noodles and meat.",
+      "Layer sauce, noodles, and cheese.",
+      "Repeat layers.",
+      "Bake until bubbly.",
+      "Rest before serving."
+    ],
+    "imageUrl": "https://example.com/lasagna.jpg"
+  },
+  {
+    "title": "Greek Salad",
+    "author": "Ina Garten",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 0,
+    "ingredients": [
+      "Tomatoes",
+      "Cucumber",
+      "Red onion",
+      "Feta cheese",
+      "Olives",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Chop vegetables.",
+      "Toss with olive oil.",
+      "Add feta and olives.",
+      "Chill before serving.",
+      "Garnish with herbs."
+    ],
+    "imageUrl": "https://example.com/greeksalad.jpg"
+  },
+  {
+    "title": "Ramen Noodles",
+    "author": "Masaharu Morimoto",
+    "difficulty": "Intermediate",
+    "prepTime": 25,
+    "cookTime": 20,
+    "ingredients": [
+      "Ramen noodles",
+      "Pork belly",
+      "Soy sauce",
+      "Egg",
+      "Green onions",
+      "Broth"
+    ],
+    "instructions": [
+      "Boil noodles and set aside.",
+      "Cook pork belly until tender.",
+      "Prepare broth with soy sauce.",
+      "Assemble noodles, pork, and toppings.",
+      "Serve hot."
+    ],
+    "imageUrl": "https://example.com/ramen.jpg"
+  }
+]
